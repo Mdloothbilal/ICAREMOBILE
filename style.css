@@ -1,0 +1,19 @@
+h1{
+    border:thick;
+    text-shadow: 1px 1px white;
+    color:black;
+    font-size: 15px;
+    text-decoration: none;
+    margin-right: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+span{
+    border:thick;
+    text-shadow: 1px 1px white;
+    color:black;
+    font-size:10px;
+    text-decoration: none;
+    margin-right: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
